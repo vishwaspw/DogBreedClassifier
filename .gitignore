@@ -1,0 +1,14 @@
+# Ignore dataset and cache
+images/
+__pycache__/
+uploads/
+*.pyc
+*.pkl
+
+# Ignore all .h5 files except model.h5
+*.h5
+!app/model.h5
+
+# Ignore OS files
+.DS_Store
+Thumbs.db 

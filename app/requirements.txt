@@ -1,0 +1,4 @@
+flask
+werkzeug
+tensorflow>=2.10
+Pillow 
